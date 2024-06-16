@@ -98,3 +98,7 @@
 
 * https://dskc.mid.ru/events/ - события в мире
 * https://dskc.mid.ru/info/countries/ - страны мира
+
+## Справочная информация
+
+* https://www.economy.gov.ru/material/directions/turizm/reestry_turizm/reestr_ekskursovodov_i_gidov_perevodchikov/ - Реестр экскурсоводов и гидов-переводчиков
