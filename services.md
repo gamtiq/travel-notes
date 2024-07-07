@@ -10,13 +10,13 @@
 ## Поиск маршрутов и интересных мест
 
 * https://russia.travel
-  - https://russia.travel/article/routes - национальные туристические маршруты
-  - https://russia.travel/article/city - маршруты выходного дня
+  - https://russia.travel/parent-articles/ekotropy-i-progulki-po-gorodam - Экотропы и прогулки по городам
   - https://russia.travel/article/puteshestviya-s-detmi - куда сходить с детьми в путешествиях по России
 * https://russpass.ru/all-directions - направления
   - https://russpass.ru/marshruty-i-ekskursii - маршруты и экскурсии
 * https://s-necklace.ru - Серебряное ожерелье России
   - https://s-necklace.ru/tours-and-routes.html - Туры и маршруты
+* https://посетикавказ.рф - Путешествие по Северному Кавказу
 
 ## Поиск туров
 
