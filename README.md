@@ -2,6 +2,7 @@
 
 [Полезные сервисы](./services.md)
 
+* [Владикавказ](./vladikavkaz.md)
 * [Вологда](./vologda.md)
 * [Екатеринбург](./ekaterinburg.md)
 * [Казань](./kazan.md)
