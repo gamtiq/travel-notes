@@ -69,8 +69,20 @@
 ## Гостиницы
 
 * https://101hotels.com/main/cities/nizhniy_novgorod
-* https://www.achotel.ru/   https://101hotels.com/main/cities/nizhniy_novgorod/gostinitsa_aleksandrovskiy_sad.html - гостиница "Александровский сад"
-* http://joyhotelnn.ru/   https://101hotels.com/main/cities/nizhniy_novgorod/mini-gostinitsa_joy.html - отель "Joy"
+* https://history-nn.ru - отель "История"  
+  https://101hotels.com/main/cities/nizhniy_novgorod/gostinitsa_istoriya_1.html  
+  https://yandex.ru/maps/org/istoriya/73352418106/reviews/ - отзывы
+* https://diplomat-hotel.ru - отель "Дипломат"  
+  https://101hotels.com/main/cities/nizhniy_novgorod/gostinitsa_diplomat.html  
+  https://yandex.ru/maps/org/diplomat/1248824229/reviews/ - отзывы
+* https://oktyabrskaya.ru - гостиница "Октябрьская"  
+  https://101hotels.com/main/cities/nizhniy_novgorod/gostinitsa_oktyabrskaya.html  
+  https://yandex.ru/maps/org/oktyabrskaya/1188625980/reviews/ - отзывы
+* https://www.achotel.ru - гостиница "Александровский сад"  
+  https://101hotels.com/main/cities/nizhniy_novgorod/gostinitsa_aleksandrovskiy_sad.html  
+  https://yandex.ru/maps/org/aleksandrovskiy_sad/1149354270/reviews/ - отзывы
+* http://joyhotelnn.ru - отель "Joy"  
+  https://101hotels.com/main/cities/nizhniy_novgorod/mini-gostinitsa_joy.html
 
 ## Приложения
 
