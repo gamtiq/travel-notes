@@ -5,12 +5,33 @@
 * https://nn-tourist.ru - туристический портал Нижегородской области
 * https://nn-grad.ru - туристический портал Нижнего Новгорода
     + https://nn-grad.ru/kuda-poyti/ - Куда пойти
-* https://swissparknn.ru - Парк Швейцария
 * https://www.geotournn.ru/tours/avtobusnye-tury-po-nizhnemu-novgorodu/dostoprimechatelnosti-nizhnego-novgoroda-i-nizhegorodskoj-oblasti/ - достопримечательности Нижнего Новгорода и области
 * https://nnintur.ru/landmark/nizhegorodskaja-oblast/ - достопримечательности Нижегородской области
 * https://tourismnn.ru/maintour/cultinter - туристические объекты Нижегородской области
 * https://cuva.ru/blog/putevoditel-po-nizhnemu-novgorodu - Интересные места Нижнего Новгорода: банк-дворец, парк чудес и не только
+* https://kremlnn.ru - Нижегородский кремль
+* https://swissparknn.ru - Парк Швейцария
 * https://kolesonino.ru - колесо обозрения
+* http://www.yarmarka.ru - Нижегородская ярмарка
+* http://strelkapark.ru - Стрелка
+* https://hutormuzey.ru - Архитектурно-этнографический музей-заповедник «Щелоковский хутор»
+* https://drama.nnov.ru - Нижегородский государственный академический театр драмы
+* https://circus-nnovgorod.ru - Нижегородский государственный цирк
+
+### Музеи
+
+* https://ngiamz.ru - Нижегородский музей-заповедник
+    + https://ngiamz.ru/usadba-rukavishnikovykh - Усадьба Рукавишниковых
+* https://artmuseumnn.ru - Нижегородский государственный художественный музей
+* https://arsenal-museum.art - Арсенал, Волго-Вятский филиал Государственного музея изобразительных искусств имени А.С. Пушкина
+* https://museumgorkogo.ru - Государственный музей А.М. Горького
+* https://museum.gaz.ru - Музей истории «ГАЗ»
+
+### Храмы, соборы, монастыри
+
+* https://nevskiy-nne.ru - Кафедральный собор во имя благоверного князя Александра Невского
+* https://www.pecherskiy.nne.ru - Вознесенский Печерский мужской монастырь
+* https://blagomm.ru - Благовещенский мужской монастырь
 
 ## Полезная информация
 
@@ -26,43 +47,47 @@
 * https://nn-grad.ru/audiogidy/ - аудиогиды
 * https://nizhny800.ru/tourist/ - полезная информация для туристов
 * https://tourismnn.ru/region/marshrut - экскурсионные маршруты
-* https://www.zharptitsann.ru/arendatory/magaziny/podarki/salon-zhar-ptitsa - магазин-салон «Жар-Птица», сувениры
-* https://нижнийновгород.рф/ - официальный сайт города
+* https://www.zharptitsann.ru/1floor#zharptica - магазин-салон «Жар-Птица», сувениры
+* https://нижнийновгород.рф - официальный сайт города
+* https://pavlovolimon.ru - Павловский питомник комнатных лимонов
+
+### Сувениры, пряники
+
+* https://souvenirs-nn.ru - Нижегородский сувенир
+* https://pryaniknn.ru - Нижегородский печатный пряник
+* https://городецкий-пряник.рф - Городецкий пряник
+* https://покровскийпряникнн.рф - Покровский пряник в Нижнем Новгороде
 
 ## Погода
 
-* https://yandex.ru/pogoda/nizhny-novgorod/details/10-day-weather - Погода на 10 дней — Нижний Новгород
+* https://yandex.ru/pogoda/ru-RU/nizhny-novgorod/details - Погода на 10 дней — Нижний Новгород
 * https://www.gismeteo.ru/weather-nizhny-novgorod-4355/3-days/ - Погода в Нижнем Новгороде на 3 дня
-
-## Интересные статьи
-
-* https://russpass.ru/article/624e88738ee45eeeba8d9a41 - Гастро-культурные выходные в Нижнем Новгороде
-* https://new.russia.travel/community/blog/618cd516d62d0fbb9fcf13bd - Метромост, шаурма и звезды — выходные в Нижнем Новгороде
-* https://new.russia.travel/community/advices/624456e24604acbde6d12adb - Места, без которых невозможно представить Нижний Новгород
 
 ## Экскурсии
 
+* https://city-sightseeing.ru/nizhnynovgorod - City Sightseeng, экскурсия на двухэтажном автобусе
 * http://www.egna.ru/no.php - Экскурсии по Нижегородской области и близлежащим городам  
   http://www.egna.ru/nn.php - Экскурсии по Нижнему Новгороду  
   http://www.egna.ru/no.php#town2 - график экскурсий
 * https://turistnnov.ru/catalog/   https://turistnnov.ru/catalog/odnodnevnye-sbornye-tury/ - Экскурсии по Нижнему Новгороду и области
-* https://welcome-nn.ru/turyi/ - Туры по Нижнему Новгороду и Нижегородской области
+* https://welcome-nn.ru/ekskursii-po-nizhnemu-novgorodu-i-oblasti - Экскурсии по Нижнему Новгороду и Нижегородской области
 * https://nn.ticketstour.ru - Экскурсии по Нижнему Новгороду и области
 * https://www.geotournn.ru/tours/avtobusnye-tury-po-nizhnemu-novgorodu/odnodnevnye-ekskursii/ - однодневные автобусные экскурсии по Нижнему Новгороду
 
 ### Речные экскурсии и прогулки
 
 * https://vodoletnn.ru - речные экскурсии и поездки на скоростных судах
-* https://volga-vodohod.ru/river-walks/ - Речные прогулки в Нижнем Новгороде
+* https://volga-vodohod.ru - Речные прогулки в Нижнем Новгороде
 * https://прогулкинатеплоходе.рф - Прогулки на теплоходе в Нижнем Новгороде
 
 ## Транспорт
 
 * https://avtovokzal52.ru - Автовокзал «Щербинки»
+* https://bilet52.ru - Автовокзал «Щербинки»
 * https://avtovokzal-nn.ru - Автовокзал «Канавинский»
-* http://www.vvppk.ru - «Волго-Вятская пригородная пассажирская компания», расписание электричек
+* https://www.vvppk.ru - «Волго-Вятская пригородная пассажирская компания», расписание электричек
 * https://busnn.ru - Транспортный сайт Нижнего Новгорода, Сводное расписание транспорта
-* https://rent-a-car24.ru/nizhny_novgorod/autos - аренда автомобилей
+* https://nizni-novgorod.rent-a-car24.ru - аренда автомобилей
 * https://alternateva.ru - Альтернатива, прокат автомобилей
 * https://nn.auto4travel.com - аренда автомобилей
 
