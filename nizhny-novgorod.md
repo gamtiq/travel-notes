@@ -12,6 +12,7 @@
 * https://kremlnn.ru - Нижегородский кремль
 * https://swissparknn.ru - Парк Швейцария
 * https://kolesonino.ru - колесо обозрения
+* https://nnkd.ru - Нижегородские канатные дороги
 * http://www.yarmarka.ru - Нижегородская ярмарка
 * http://strelkapark.ru - Стрелка
 * https://hutormuzey.ru - Архитектурно-этнографический музей-заповедник «Щелоковский хутор»
