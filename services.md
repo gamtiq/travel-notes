@@ -101,4 +101,5 @@
 
 ## Справочная информация
 
+* https://customer.level.travel/countries - Всё, что нужно знать туристам за границей: визы, правила въезда, ограничения, валюта
 * https://www.economy.gov.ru/material/directions/turizm/reestry_turizm/reestr_ekskursovodov_i_gidov_perevodchikov/ - Реестр экскурсоводов и гидов-переводчиков
