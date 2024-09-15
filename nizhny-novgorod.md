@@ -16,7 +16,6 @@
 * http://www.yarmarka.ru - Нижегородская ярмарка
 * http://strelkapark.ru - Стрелка
 * https://hutormuzey.ru - Архитектурно-этнографический музей-заповедник «Щелоковский хутор»
-* https://drama.nnov.ru - Нижегородский государственный академический театр драмы
 * https://circus-nnovgorod.ru - Нижегородский государственный цирк
 
 ### Музеи
@@ -27,6 +26,14 @@
 * https://arsenal-museum.art - Арсенал, Волго-Вятский филиал Государственного музея изобразительных искусств имени А.С. Пушкина
 * https://museumgorkogo.ru - Государственный музей А.М. Горького
 * https://museum.gaz.ru - Музей истории «ГАЗ»
+
+### Театры и музыкальные площадки
+
+* https://drama.nnov.ru - Нижегородский государственный академический театр драмы
+* https://comedy.nnov.ru - Нижегородский театр «Комедiя»
+* https://operann.ru - Нижегородский государственный академический театр оперы и балета имени А.С. Пушкина
+* https://www.music-nn.ru - Нижегородская государственная академическая филармония имени М. Ростроповича
+* https://nnovcons.ru - Нижегородская государственная консерватория им. М. И. Глинки
 
 ### Храмы, соборы, монастыри
 
@@ -39,12 +46,14 @@
 * https://nn-grad.ru/bank/guide.pdf - путеводитель по Нижнему Новгороду
 * https://dzen.ru/a/ZEkKJClC0z-SfIqR - Путеводитель по Нижнему Новгороду
 * https://travel.yandex.ru/journal/nizhny-novgorod/ - Нижний Новгород — столица закатов, граффити и вкусной еды
+* https://www.tutu.ru/geo/rossiya/nizhniy_novgorod/article/putevoditel-ot-mestnyh/ - Нижний Новгород: путеводитель от местных
 * https://www.kp.ru/russia/nizhnij-novgorod/ - Нижний Новгород, куда сходить, где остановиться
 * https://anashina.com/nizhnij-novgorod/ - Путеводитель по Нижнему Новгороду: достопримечательности и экскурсии, гостиницы и кафе
 * https://perito.media/posts/edem-v-nizhnii-novgorod-arkhitektura-strit-art-i-luchshie-zakaty-v-strane - Едем в Нижний Новгород: архитектура, стрит-арт и лучшие закаты в стране
 * https://journal.tinkoff.ru/nnovgorod-one-day/ - Что посмотреть в Нижнем Новгороде за один день
 * https://www.puteshestvuy.com/nizhniy-novgorod-dostoprimechatelnosti/ - путеводитель по Нижнему Новгороду
 * https://gid-nn.ru/goto/ - Куда сходить в Нижнем Новгороде
+* https://nireal.ru/gid - Гастрогид по Нижнему Новгороду
 * https://nn-grad.ru/audiogidy/ - аудиогиды
 * https://nizhny800.ru/tourist/ - полезная информация для туристов
 * https://tourismnn.ru/region/marshrut - экскурсионные маршруты
