@@ -44,7 +44,11 @@
 * https://www.infoflot.com - круизный центр «Инфофлот», супермаркет речных и морских круизов
 * https://vodohod.com - речные круизы от компании «ВодоходЪ»
 * https://s-cruises.com - круизная компания «Созвездие»
-* https://www.mcruises.ru -  "Круизы и Путешествия", гипермаркет круизов и туров по всему миру
+* https://doninturflot.com - круизная компания «Донинтурфлот»
+* https://www.mosturflot.ru - круизная компания «Мостурфлот»
+* https://gama-nn.ru - круизная компания «Гама»
+* https://rechflot.ru - компания «Речфлот»
+* https://www.mcruises.ru -  «Круизы и Путешествия», гипермаркет круизов и туров по всему миру
 * https://river.sputnik-germes.ru
 * https://www.rech-tour.ru
 
