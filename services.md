@@ -12,6 +12,7 @@
 * https://russia.travel
   - https://russia.travel/parent-articles/ekotropy-i-progulki-po-gorodam - Экотропы и прогулки по городам
   - https://russia.travel/article/puteshestviya-s-detmi - куда сходить с детьми в путешествиях по России
+* https://travel.yandex.ru/journal/ - Журнал Яндекс Путешествий о поездках по России и миру
 * https://russpass.ru/all-directions - направления
   - https://russpass.ru/marshruty-i-ekskursii - маршруты и экскурсии
 * https://s-necklace.ru - Серебряное ожерелье России
@@ -89,6 +90,10 @@
 
 * https://kiwitaxi.ru - трансферы из аэропортов и отелей
 * https://www.intui.travel - трансферы из аэропорта от профессиональных транспортных компаний
+
+## Аренда автомобилей
+
+* https://localrent.com - Аренда авто в Европе, Азии и Африке
 
 ## Экскурсии
 
