@@ -60,6 +60,7 @@
 * https://www.svetlogorsk-tourism.ru - информационно-туристический центр Светлогорска
 * https://gov39.ru - Портал Правительства Калининградской области
 * https://www.klgd.ru - Администрация ГО "Город Калининград"
+  - https://www.klgd.ru/city/tourism/brochures.php - Туристические брошюры с информацией о Калининграде
 * https://cranzbike.tilda.ws - CRANZ BIKE, аренда премиальных электровелосипедов в Зеленоградске
 * https://rynok39.ru - Центральный рынок Калининграда
 
@@ -128,7 +129,18 @@
 
 ### Трансфер и такси
 
+* https://visit-kaliningrad.ru/info/transport/taxi.php - Такси в Калининграде
 * https://cvet-transfer.ru/transfer-iz-aeroporta-hrabrovo - Цвет-Трансфер, трансфер из аэропорта
+* https://taxi500600.ru - Такси Европа. Заказать такси: тел. 8 (4012) 500-600
+* https://skytaxi-kaliningrad.ru - Трансферы Skytaxi и такси межгород в Калининграде
+* https://taxivovremya.ru - «Сервис Такси Вовремя», такси трансфер из/в аэропорт Храброво
+* https://taxibaltiki39.ru - Такси Балтики. Телефон для заказа: 8 (4012) 33-33-33
+* https://alice39.ru - такси "Алиса". Телефон для заказа: +7 (4012) 555-353
+* https://taxi.yandex.ru/kaliningrad/tariff/ - Яндекс.Такси, Калининград: цена на такси. Заказ такси по телефону +7 (4012) 566 666
+* https://taxi.yandex.ru/zelenogradsk/tariff - Яндекс.Такси, Зеленоградск: цена на такси. Заказ такси по телефону +7 (800) 770-70-74
+* https://kaliningrad.taximaxim.ru - Сервис заказа такси «Максим»
+* https://kaliningrad.taxipoehali.ru/client/ - такси «Поехали»
+* https://vezet.ru/kaliningrad - Сервис для заказа такси в Калининграде "Везёт"
 * https://moe-taxi-zelenogradsc.ru - Мое Зеленоградское Такси
 
 ## Гостиницы
