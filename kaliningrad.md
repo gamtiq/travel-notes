@@ -100,6 +100,8 @@
 
 * https://yandex.ru/pogoda/ru/kaliningrad/details - Погода на 10 дней — Калининград
 * https://www.gismeteo.ru/weather-kaliningrad-4225/3-days/ - Погода в Калининграде на 3 дня
+* http://www.nepogoda.ru/russia/kaliningrad/ - Погода в Калининграде на 5 дней
+* https://meteo39.ru - Прогноз погоды по Калининградской области и Калининграду
 
 ### Зеленоградск
 
