@@ -17,6 +17,7 @@
     + https://cosmos.vdnh.ru - Центр космонавтика и авиация
     + https://vdnh.ru/places/maket-moskvy/   https://maketmoskvy.ru - Макет Москвы
 * https://moscow-sun.ru - Колесо обозрения «Солнце Москвы»
+* https://vorobgori.mytown.site - Воробьевы горы
 * https://srkvg.ru - Московская канатная дорога на Воробьевых горах
 * https://myhistorypark.ru/?city=msk - Исторический парк «Россия – моя история» на ВДНХ
 * https://gum.ru - ГУМ (Главный универсальный магазин)

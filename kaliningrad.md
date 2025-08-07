@@ -74,6 +74,7 @@
 ## Сувениры
 
 * https://visit-kaliningrad.ru/info/chto-privezti-iz-kaliningrada/ - Что привезти из Калининграда
+* https://www.amberica.store - Амберика. Косметика Балтийского моря
 
 ### Янтарь
 
