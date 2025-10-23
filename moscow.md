@@ -238,12 +238,74 @@
 
 ## Гостиницы
 
+* https://ostrovok.ru/hotel/russia/moscow/ - отели в Москве
+* https://travel.yandex.ru/hotels/moscow/ - отели в Москве
 * https://101hotels.com/main/cities/moskva - гостиницы Москвы
-* https://yaroslavhotel.com - гостиница "Ярославская"  
+* [Ярославская](https://yaroslavhotel.com), метро "ВДНХ" 7-10 минут пешком, [на карте](https://yandex.ru/maps/org/yaroslavskaya/124907496388/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7732781/gostinitsa_iaroslavskaia/  
+  https://travel.yandex.ru/hotels/moscow/iaroslavskaia/  
   https://www.101hotels.ru/main/cities/moskva/v_gostinitse_yaroslavskoe_.html
-* https://academical.ras-hotels.ru - гостиница "Академическая"  
-  https://101hotels.com/main/cities/moskva/gostinitsa_akademicheskaya.html  
-  https://yandex.ru/maps/org/akademicheskaya/1167046156/reviews/ - отзывы
-* https://coffeehotel.ru - отель "Палермо"  
-  https://101hotels.com/main/cities/moskva/palermo_hotel_coffee_house.html  
-  https://yandex.ru/maps/org/palermo/197854113481/reviews/ - отзывы
+* [Академическая](https://academical.ras-hotels.ru), метро "Октябрьская" 5 минут пешком, [на карте](https://yandex.ru/maps/org/akademicheskaya/1167046156/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid10517553/gostinitsa_akademicheskaya_ran_hotel_2/  
+  https://travel.yandex.ru/hotels/moscow/akademicheskaia/  
+  https://101hotels.com/main/cities/moskva/gostinitsa_akademicheskaya.html
+* [Багратион](https://bagrationhotel.ru), метро "Парк культуры" 7-10 минут пешком, [на карте](https://yandex.ru/maps/org/bagration/1070804628/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7852775/bagration_hotel/  
+  https://travel.yandex.ru/hotels/moscow/bagration/
+* [Авиалюкс](http://hotelavialux.com/), метро "Аэропорт" 7-10 минут пешком, [на карте](https://yandex.ru/maps/org/avialyuks/1243421564/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7395306/otel_avialiuks/  
+  https://travel.yandex.ru/hotels/moscow/avialiuks/
+* [Даниловская](https://danilovsky.ru), метро "Тульская" 7-8 минут пешком, [на карте](https://yandex.ru/maps/org/danilovskaya/1133064935/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7378628/danilovskaya_2/  
+  https://travel.yandex.ru/hotels/moscow/danilovskaia/
+* [Альянс Бородино](https://alliance-borodino.ru), метро "Красносельская" 10 минут пешком, [на карте](https://yandex.ru/maps/org/alyans_borodino/1008116037/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7599836/borodino_hotel/  
+  https://travel.yandex.ru/hotels/moscow/alians-borodino/
+* [Максима Панорама](https://maximahotels.ru/hotels/panorama/), метро "Автозаводская" 1-2 минуты пешком, [на карте](https://yandex.ru/maps/org/maksima_panorama/1035952760/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7467382/maxima_panorama_hotel/  
+  https://travel.yandex.ru/hotels/moscow/maksima-panorama/
+* [1 Арт отель](https://1arthotel.ru), метро "Алексеевская" 10 минут пешком, [на карте](https://yandex.ru/maps/org/1_art_otel/96684225413/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid9764903/1_art_hotel/  
+  https://yandex.ru/maps/org/1_art_otel/96684225413/reviews/
+* [Сущевский Сафмар](https://suschevsky.moscow-hi.ru), метро "Рижская" 1-2 минуты пешком, [на карте](https://yandex.ru/maps/org/sushchevskiy_safmar/1082644177/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7467381/kholidei_inn_sushchevskii/  
+  https://yandex.ru/maps/org/sushchevskiy_safmar/1082644177/reviews/
+* [Грегори](https://gregoryhotel.ru), метро "Бауманская" 7-10 минут пешком, [на карте](https://yandex.ru/maps/org/gregori/87337251101/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid8854271/gregory_hotel/  
+  https://yandex.ru/maps/org/gregori/87337251101/reviews/
+* [Воронцовский](https://vorontsovsky.ru), метро "Пролетарская" / "Крестьянская Застава" 7-10 минут пешком, [на карте](https://yandex.ru/maps/org/vorontsovskiy/5058443569/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7724453/vorontsovsky_hotel/  
+  https://travel.yandex.ru/hotels/moscow/vorontsovskii/
+* [Ибис Павелецкая](https://accor.ru/moscow/ibis-moscow-paveletskaya/), метро "Серпуховская" 8-10 минут пешком, [на карте](https://yandex.ru/maps/org/ibis_moskva_paveletskaya/1049790223/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7467292/ibis_moskva_paveletskaia/  
+  https://travel.yandex.ru/hotels/moscow/ibis-moskva-paveletskaia/
+* [Azimut Аэростар](https://azimuthotels.com/ru/moscow/azimut-hotel-aerostar), метро "Петровский парк" / "Динамо" 10 минут пешком, [на карте](https://yandex.ru/maps/org/azimut_otel_aerostar_moskva/1205389867/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7598118/aerostar_hotel/  
+  https://travel.yandex.ru/hotels/moscow/azimut-otel-aerostar-moskva/
+* [Novotel Центр](https://accor.ru/moscow/novotel-moscow-center/), метро "Менделеевская" 1-2 минуты пешком, [на карте](https://yandex.ru/maps/org/novotel_moskva_tsentr/1108225187/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7806857/novotel_moskva_tsentr/  
+  https://travel.yandex.ru/hotels/moscow/novotel-moskva-tsentr/
+* [Максима Заря](https://maximahotels.ru/hotels/zarya/), метро "Окружная" 5-7 минут пешком, [на карте](https://yandex.ru/maps/org/maksima_zarya/1126103204/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7597075/maxima_zarya_hotel/  
+  https://travel.yandex.ru/hotels/moscow/maksima-zaria/
+* [Апарт-Отель На Ходынке](https://aparthotel-nahodynke.ru), метро "ЦСКА" 10-15 минут пешком, [на карте](https://yandex.ru/maps/org/apart_otel_na_khodynke/75506411545/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid9226612/na_hodyinke_aparthotel/  
+  https://travel.yandex.ru/hotels/moscow/apart-otel-na-khodynke/
+* [Ибис Октябрьское Поле](https://accor.ru/moscow/ibis-moscow-oktyabrskoye-pole), метро "Октябрьское Поле" 10 минут пешком, станция "Панфиловская" МЦК 5 минут пешком, [на карте](https://yandex.ru/maps/org/ibis_moskva_oktyabrskoye_pole/69247668635/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid8850223/ibis_moscow_oktyabrskoye_pole/  
+  https://travel.yandex.ru/hotels/moscow/ibis-moskva-oktiabrskoe-pole/
+* [Moscow Holiday](https://moscow-holiday.ru), метро "Народное Ополчение" 15 минут пешком, станция "Хорошёво" МЦК 10 минут пешком, [на карте](https://yandex.ru/maps/org/moscow_holiday_hotel/225364726181/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid8664628/moscow_holiday_hotel/  
+  https://travel.yandex.ru/hotels/moscow/moscow-holiday-hotel/
+* [Аэрополис](https://www.aeropolis.ru), метро "Динамо" / "Петровский парк" 15 минут пешком, [на карте](https://yandex.ru/maps/org/aeropolis/1342513782/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7467344/gostinitsa_aeropolis/  
+  https://travel.yandex.ru/hotels/moscow/aeropolis/
+* [Денисовский дворик](https://dd-hotel.ru), метро "Бауманская" 7-10 минут пешком, [на карте](https://yandex.ru/maps/org/denisovskiy_dvorik/1180206714/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid6396879/denisovsky_dvorik/  
+  https://travel.yandex.ru/hotels/moscow/denisovskii-dvorik/
+* [Лемар](https://lemarhotel.ru), метро "Краснопресненская" 10 минут пешком, [на карте](https://yandex.ru/maps/org/lemar/108367540613/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid9751549/lemar_hotel/  
+  https://travel.yandex.ru/hotels/moscow/lemar-rastorguevskii-pereulok/
+* [Мини-отель Палермо](https://coffeehotel.ru), метро "Волжская" 15 минут пешком, [на карте](https://yandex.ru/maps/org/palermo/197854113481/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid9024104/hotel_i_kofejnya_palermo/  
+  https://101hotels.com/main/cities/moskva/palermo_hotel_coffee_house.html
