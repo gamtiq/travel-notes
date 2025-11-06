@@ -32,4 +32,6 @@
 
 * https://www.hotel-aquamarin.ru - отель Аквамарин
 * https://www.gelios-hotel.ru - Гелиос Отель
+* https://repinskaya.ru - гостиница Репинская
+* https://doteatr.ru - Театральный Пансионат
 * https://raivola.spb.ru - загородный отель Райвола
