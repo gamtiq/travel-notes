@@ -35,8 +35,23 @@
 
 ## Гостиницы
 
-* https://ibc-victoria.com - отель «Виктория»
-* https://www.vyborgvbg.ru - гостиница «Выборг»
-* https://druvbg.ru - гостиничный комплекс "Дружба"
-* https://thebathotel.ru - отель "Летучая мышь"
-* https://vlagom.ru - мини-отель Lagom
+* https://ibc-victoria.com - отель «Виктория»  
+  https://yandex.ru/maps/org/viktoriya/1048243753/reviews/ - отзывы
+* https://www.vyborgvbg.ru - гостиница «Выборг»  
+  https://yandex.ru/maps/org/gostinitsa_vyborg/1111245708/reviews/ - отзывы
+* https://druvbg.ru - гостиничный комплекс "Дружба"  
+  https://yandex.ru/maps/org/druzhba/1227006717/reviews/ - отзывы
+* https://saimala.ru - отель Saimala  
+  https://yandex.ru/maps/org/saimala/161711799566/reviews/ - отзывы
+* https://thebathotel.ru - отель "Летучая мышь"  
+  https://yandex.ru/maps/org/letuchaya_mysh/1204283042/reviews/ - отзывы
+* https://retro-otel.ru - Ретро-отель Фабрики кренделей  
+  https://yandex.ru/maps/org/retro_otel_na_fabrike_krendeley/126391120077/reviews/ - отзывы
+* https://vlagom.ru - мини-отель Lagom  
+  https://yandex.ru/maps/org/lagom/1104819696/reviews/ - отзывы
+
+### Поиск гостиниц
+
+* https://ostrovok.ru/hotel/russia/vyborg/
+* https://travel.yandex.ru/hotels/vyborg/
+* https://101hotels.com/main/cities/viborg
