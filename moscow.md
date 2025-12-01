@@ -27,7 +27,6 @@
 * https://www.luzhniki.ru - Спортивный комплекс «Лужники»
 * https://tsar-maket.ru -  Музей-диорама Царь-макет, самый большой интерактивный макет России в Москве
 * http://progulkipomoskve.ru/dostoprimechatelnosti_moskvy - главные достопримечательности Москвы
-* https://meloman.ru - Московская государственная академическая филармония
 
 ### Музеи
 
@@ -115,6 +114,34 @@
 * https://otzovik.com/review_2456686.html - бесплатная Смотровая площадка возле Президиума Российской академии наук (рядом с Нескучным садом)
 * https://anashina.com/moscow-city/ - Смотровые площадки в "Москва-сити"
 
+### Концертные площадки
+
+* https://meloman.ru - Московская государственная академическая филармония
+* https://www.mosconsv.ru - Московская государственная консерватория имени П.И.Чайковского
+* https://kremlinpalace.org - Государственный Кремлёвский Дворец
+* https://zaryadyehall.ru - Московский концертный зал «Зарядье»
+
+### Театры
+
+* https://www.bolshoi.ru - Большой театр
+* https://www.maly.ru - Малый театр
+* https://mxat.ru - МХТ им.А.П.Чехова
+* https://vakhtangov.ru - Театр им. Евг. Вахтангова
+* https://mossoveta.ru - Театр им. Моссовета
+* https://teatrgogolya.ru - Театр Гоголя
+* https://neglinka29.ru - Театр на Трубной
+* https://www.ermolova.ru - Театр Ермоловой
+* https://ordynka31.ru - Театр на Малой Ордынке
+* https://stanmus.ru - Музыкальный театр имени К.С. Станиславского и Вл.И. Немировича-Данченко
+* https://teatr-estrada.ru - Театр Эстрады
+* https://mosoperetta.ru - Театр оперетты
+* https://theatrecomedy.com - Театр комедии
+* https://teatrarmii.ru - Центральный академический Театр Российской Армии
+* https://teatr-romen.ru - Театр «Ромэн»
+* https://www.modern-theatre.ru - Московский драматический театр «Модерн»
+* https://shilovtsy.ru - Московский Театр-студия Всеволода Шиловского
+* https://vishnevii-sad.ru - Театральный центр Вишневый сад
+
 ## Куда сходить с ребенком
 
 * https://незабываемая.москва/blog/7-kuda_poyti_s_rebenkom_v_moskve_15_luchshikh_mest_kotoryye_ponravyatsya_detyam.html - Куда пойти с ребенком в Москве?
@@ -179,6 +206,9 @@
 * https://www.mos.ru/afisha/ - Афиша Москвы
     + https://www.mos.ru/afisha/event/ - события
 * https://moscowseasons.com -  «Московские сезоны», мероприятия и события Москвы
+* https://afisha.yandex.ru/moscow - Куда сходить в Москве – все мероприятия и развлечения – Яндекс Афиша
+* https://bilet.mos.ru - Афиша Москвы — куда сходить, мероприятия и билеты без наценки
+* https://zima.mos.ru - «Зима в Москве» — афиша зимних мероприятий и новогодних событий 2025-2026
 
 ## Погода
 
