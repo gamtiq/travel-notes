@@ -24,6 +24,11 @@
 * https://vk.link/taverna_vyborg - Средневековая Таверна  
   https://yandex.ru/maps/org/taverna/13175281877/
 
+## Экскурсии
+
+* https://vyborgcitytour.ru - Vyborg City Tour, экскурсии на автобусе по Выборгу
+* https://47kater.ru - водные экскурсии в Выборге
+
 ## Погода
 
 * https://www.gismeteo.ru/weather-vyborg-3942/3-days/ - Погода в Выборге на 3 дня
