@@ -5,6 +5,7 @@
 * [Владикавказ](./vladikavkaz.md)
 * [Вологда](./vologda.md)
 * [Выборг](./vyborg.md)
+* [Дагестан](./dagestan.md)
 * [Екатеринбург](./ekaterinburg.md)
 * [Кавказские Минеральные Воды](./cmw.md)
 * [Казань](./kazan.md)
