@@ -2,6 +2,7 @@
 
 [Полезные сервисы](./services.md)
 
+* [Беларусь](./belarus.md)
 * [Владикавказ](./vladikavkaz.md)
 * [Вологда](./vologda.md)
 * [Выборг](./vyborg.md)
