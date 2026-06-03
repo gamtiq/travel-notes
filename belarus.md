@@ -14,6 +14,7 @@
 * https://vetliva.ru/belarus/what-to-see/ - Достопримечательности Беларуси — места, которые стоит посмотреть
   + https://vetliva.ru/belarus/map/ - Достопримечательности Беларуси на карте
 * https://planetabelarus.by/sights/ - Достопримечательности Беларуси
+* https://www.holiday.by/by/skarb - Достопримечательности Беларуси
 * https://ekskursii.by/?Dostoprimechatelnosti_Belarusi - Популярные достопримечательности Беларуси
 * https://travel.by - путешествия и отдых в Беларуси и во всем мире
 * https://museum.by - Музеи Беларуси, новости, афиша мероприятий, каталог музеев
@@ -103,6 +104,7 @@
 * https://vetliva.ru - VETLIVA, каталог туристических услуг по Беларуси, экскурсии, лечение, отдых, туры.
   + https://vetliva.ru/tourism/health-tourism/ - Санатории Беларуси
 * https://belarustourism.by - Официальный сайт о туризме в Беларуси
+* https://www.holiday.by/by - Отдых в Беларуси
 * https://ticmogilev.by - Туристический информационный центр «Регион Могилев»
 * https://bresttravel.by - Брестская область: туризм, отдых, развлечения, шопинг
 * https://24afisha.by - Афиша в Беларуси: билеты на популярные мероприятия и развлечения
@@ -128,6 +130,7 @@
 * https://tc-stolica.by - Торговый центр "Столица"
 * https://galleria-minsk.by - ТРЦ Galleria Minsk
 * https://komarovka.by - Комаровский рынок
+* https://kommunarka.by/shops/firmennye-magaziny/ - фирменные магазины "Коммунарка"
 
 ### Гродно
 
@@ -148,6 +151,20 @@
 ### Витебск
 
 * https://vitebsk-region.gov.by - Витебский областной исполнительный комитет
+
+## Питание
+
+### Минск
+
+* https://my-travel-diary.by/stolovye-minska.html - Столовые Минска: где дешево поесть в центре?
+* https://my-travel-diary.by/poprobovat-belorusskuju-kuhnju.html - 8 мест, где в Минске попробовать белорусскую кухню
+* https://my-travel-diary.by/restorany-minska-top-20.html - Рестораны Минска: от эльфийского леса до мира Гарри Поттера
+* https://www.lido.by - Рестораны-бистро «ЛИДО»
+* https://kommunarka.by/shops/cafe/ - кофейни "Коммунарка"
+* https://litviny.by - Ресторан белорусской кухни Литвины
+* https://www.restoransvoi.by - Свои - ресторан национальной белорусской кухни
+* https://www.kuhmistr.by - Ресторан белорусской и литвинской кухни Кухмистр
+* https://vasilki.by - Рестораны "Васильки"
 
 ## Банки
 
@@ -219,6 +236,7 @@
 * https://metropoliten.by - Минский метрополитен
   + https://metropoliten.by/information/fare/tarif/ - Тарифы на проезд
   + https://metropoliten.by/information/fare/#s-90 - БСК-Минсктранс
+* https://kogda.by - расписание автобусов, троллейбусов и трамваев
 * https://beltransfer.by - Трансфер на отдых в Беларуси
 * https://atlasbus.by - Атласбас, покупка билетов на маршрутки и автобусы по всей Беларуси
 

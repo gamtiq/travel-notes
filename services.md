@@ -115,7 +115,7 @@
 ## МИД
 
 * https://www.mid.ru/ru/useful_information/information/ - Выезжающим за рубеж
-* https://www.mid.ru/ru/useful_information/information/entrance_mode/ - Режим въезда граждан в иностранные государства
+* https://www.mid.ru/useful_information/information/entrance_mode/ - Режим въезда граждан в иностранные государства
 
 ### Департамент Ситуационно-кризисный центр МИД
 
