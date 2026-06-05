@@ -26,11 +26,14 @@
 * https://narochpark.by - Национальный парк "Нарочанский"
 * https://www.npp.by - Национальный парк "Припятский"
 * https://dudutki.by - Музейный комплекс старинных народных ремесел и технологий "Дудутки"
+* https://www.parksula.by - парк интерактивной средневековой истории «Великое княжество Сула»
 * https://stalin-line.by - Историко-культурный комплекс «Линия Сталина»
 * https://my-travel-diary.by/samye-krasivye-goroda-belarusi-moj-top-9.html - Самые красивые города Беларуси
 * https://my-travel-diary.by/samye-interesnye-mesta-belarusi.html - Самые интересные места Беларуси: что посмотреть за неделю
 * https://my-travel-diary.by/gomel-chem-zanjatsja-i-chto-posmotret.html - Гомель: чем заняться и что посмотреть? 8 идей для туристов
 * https://my-travel-diary.by/chem-zanjatsja-v-mogileve.html - Чем заняться в Могилеве: СПА, дворцы и бесплатный кофе
+* https://my-travel-diary.by/chem-zanjatsja-v-breste.html - 9 идей: чем заняться в Бресте (помимо крепости и пущи)?
+* https://my-travel-diary.by/dostoprimechatelnosti-brestskoj-oblasti.html - Достопримечательности Брестской области: куда поехать из Бреста
 
 ### Минск
 
@@ -105,9 +108,11 @@
   + https://vetliva.ru/tourism/health-tourism/ - Санатории Беларуси
 * https://belarustourism.by - Официальный сайт о туризме в Беларуси
 * https://www.holiday.by/by - Отдых в Беларуси
+* https://my-travel-diary.by/puteshestvija-po-belarusi.html - 25 лайфхаков для путешествия по Беларуси
 * https://ticmogilev.by - Туристический информационный центр «Регион Могилев»
 * https://bresttravel.by - Брестская область: туризм, отдых, развлечения, шопинг
 * https://24afisha.by - Афиша в Беларуси: билеты на популярные мероприятия и развлечения
+* https://www.slivki.by - скидки, скидочный агрегатор
 
 ### Минск
 
@@ -129,8 +134,11 @@
 * https://umag.by - Универмаг "Беларусь"
 * https://tc-stolica.by - Торговый центр "Столица"
 * https://galleria-minsk.by - ТРЦ Galleria Minsk
+  + https://galleria-minsk.by/news/events/ - Новости и акции, экскурсии по Минску
 * https://komarovka.by - Комаровский рынок
 * https://kommunarka.by/shops/firmennye-magaziny/ - фирменные магазины "Коммунарка"
+* https://freewifiminsk.by - бесплатный Wi-Fi в Минске
+* https://my-travel-diary.by/kuda-shodit-v-minske-besplatno.html - Куда сходить в Минске бесплатно?
 
 ### Гродно
 
@@ -152,7 +160,9 @@
 
 * https://vitebsk-region.gov.by - Витебский областной исполнительный комитет
 
-## Питание
+## Заведения питания
+
+* https://my-travel-diary.by/tag/restorany-belarusi - рестораны Беларуси
 
 ### Минск
 
@@ -168,6 +178,8 @@
 
 ## Банки
 
+* https://myfin.by - банки Беларуси
+  + https://myfin.by/currency/ - Курсы валют банков
 * https://belarusbank.by - Беларусбанк
   + https://belarusbank.by/o-banke/bank-segodnya/struktura-banka/otdeleniya/ - Отделения
   + https://belarusbank.by/fizicheskim_licam/obmen_valyut/nalichnye/ - Курсы покупки/продажи наличных иностранных валют
@@ -178,6 +190,15 @@
 * https://www.sber-bank.by - Сбер Банк
   + https://www.sber-bank.by/page/offices - Отделения Банка
   + https://www.sber-bank.by/page/currency-exchange-cash - Курсы валют - Наличные курсы
+
+## Сувениры
+
+* https://my-travel-diary.by/kakie-suveniry-privezti-iz-belarusi.html - Какие сувениры привезти из Беларуси?
+* https://vokladki.by - магазин авторских аксессуаров
+* https://bchk.by/suvenirnye - Сувенирные носки
+* https://arzhanitsa.by - "Пацалункi-Падарункi", изделия из клюквы
+* https://luch.by - белорусские часы «Луч» — Минский часовой завод
+* https://hvilina.by - HVILINA: стильные дизайнерские наручные часы
 
 ## Экскурсии
 
@@ -239,6 +260,7 @@
 * https://kogda.by - расписание автобусов, троллейбусов и трамваев
 * https://beltransfer.by - Трансфер на отдых в Беларуси
 * https://atlasbus.by - Атласбас, покупка билетов на маршрутки и автобусы по всей Беларуси
+* https://alfarent.by - Alfarent, аренда автомобилей в Минске, прокат машин на сутки без водителя
 
 ## Гостиницы и места размещения
 
