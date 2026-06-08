@@ -26,10 +26,13 @@
 * https://narochpark.by - Национальный парк "Нарочанский"
 * https://www.npp.by - Национальный парк "Припятский"
 * https://dudutki.by - Музейный комплекс старинных народных ремесел и технологий "Дудутки"
+* https://ru.etna.by - Белорусский государственный музей народной архитектуры и быта
 * https://www.parksula.by - парк интерактивной средневековой истории «Великое княжество Сула»
 * https://stalin-line.by - Историко-культурный комплекс «Линия Сталина»
 * https://my-travel-diary.by/samye-krasivye-goroda-belarusi-moj-top-9.html - Самые красивые города Беларуси
 * https://my-travel-diary.by/samye-interesnye-mesta-belarusi.html - Самые интересные места Беларуси: что посмотреть за неделю
+* https://my-travel-diary.by/pochti-minsk.html - Почти Минск. 7 мест, куда съездить на полдня без машины?
+* https://my-travel-diary.by/kuda-sezdit-iz-minska-na-1-den.html - Куда съездить из Минска на 1 день
 * https://my-travel-diary.by/gomel-chem-zanjatsja-i-chto-posmotret.html - Гомель: чем заняться и что посмотреть? 8 идей для туристов
 * https://my-travel-diary.by/chem-zanjatsja-v-mogileve.html - Чем заняться в Могилеве: СПА, дворцы и бесплатный кофе
 * https://my-travel-diary.by/chem-zanjatsja-v-breste.html - 9 идей: чем заняться в Бресте (помимо крепости и пущи)?
@@ -65,6 +68,7 @@
   + https://www.belarus.by/ru/travel/belarus-life/lida-castle - Лидский замок
   + https://www.belarus.by/ru/travel/belarus-life/kalozha-church - Коложская церковь
 * https://my-travel-diary.by/dostoprimechatelnosti-grodno-chto-posmotret-za-1-2-dnja.html - Достопримечательности Гродно: что посмотреть за 1-2 дня
+* https://my-travel-diary.by/chem-zanjatsja-v-grodno.html - Чем заняться в Гродно: 10 идей (замки, дворцы и кофейни)
 * https://my-travel-diary.by/kuda-poehat-iz-grodno.html - Куда поехать из Гродно (на машине и без)?
 * https://grodno-region.gov.by/ru/dostoprim-ru/ - Достопримечательности Гродненской земли
 * http://grodno.gov.by/main.aspx?guid=1141 - Достопримечательности Гродно
@@ -206,6 +210,7 @@
 * https://planetabelarus.by/tours/ - Экскурсии и маршруты по Беларуси
 * https://ekskursii.by - Экскурсии из Минска по Беларуси
 * https://zamak.by - Страна Замков – Экскурсии и туры по Беларуси
+* https://originaltour.by/type/tury-po-belarusi/ - Туры и экскурсии по Беларуси
 * https://citytourminsk.by - Minsk City Tour - Экскурсия по Минску на двухэтажном автобусе
 
 ## Погода
