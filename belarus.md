@@ -250,32 +250,45 @@
 * https://pogoda.by/weather - Прогноз Погоды
   + https://pogoda.by/weather/synoptic - Прогноз синоптика
   + https://pogoda.by/weather/numerical-weather-2/ - Численный прогноз погоды на 2 суток
+* https://meteo.by - Погода в Беларуси
+* https://rusmeteo.by/weather/belarus/ - Прогноз погоды по областям в Беларуси
+* https://belta.by/meteo/ - Погода в городах Беларуси
+* https://www.belarus.by/ru/travel/weather - Погода в Беларуси
+* https://www.gismeteo.by/catalog/belarus/ - Погода в Беларуси
+* https://pogoda.onliner.by - Погода в Беларуси
 * https://yandex.ru/pogoda/ru/region/belarus - Погода в городах Беларуси
 
 ### Минск
 
 * https://pogoda.by/weather/numerical-weather-2/26851 - Численный прогноз погоды на 2 суток в Минске
+* https://meteo.by/minsk/ - Прогноз погоды на 10 дней в Минске
+* https://rusmeteo.by/weather/minsk/ - Погода в Минске
 * https://yandex.ru/pogoda/ru/minsk - Погода в Минске
   + https://yandex.ru/pogoda/ru/minsk/details - Погода в Минске на 10 дней
-* https://www.gismeteo.ru/weather-minsk-4248/3-days/ - Погода в Минске на 3 дня
+* https://www.gismeteo.by/weather-minsk-4248/3-days/ - Погода в Минске на 3 дня
 
 ### Гродно
 
 * https://pogoda.by/weather/numerical-weather-2/26820 - Численный прогноз погоды на 2 суток в Гродно
+* https://meteo.by/grodno/ - Прогноз погоды на 10 дней в Гродно
+* https://rusmeteo.by/weather/grodno/ - Погода в Гродно
 * https://yandex.ru/pogoda/ru/grodno - Погода в Гродно
   + https://yandex.ru/pogoda/ru/grodno/details - Погода в Гродно на 10 дней
-* https://www.gismeteo.ru/weather-grodno-4243/3-days/ - Погода в Гродно на 3 дня
+* https://www.gismeteo.by/weather-grodno-4243/3-days/ - Погода в Гродно на 3 дня
 
 ### Витебск
 
 * https://pogoda.by/weather/numerical-weather-2/26666 - Численный прогноз погоды на 2 суток в Витебске
+* https://meteo.by/vitebsk/ - Прогноз погоды на 10 дней в Витебске
+* https://rusmeteo.by/weather/vitebsk/ - Погода в Витебске
 * https://yandex.ru/pogoda/ru/vitebsk - Погода в Витебске
   + https://yandex.ru/pogoda/ru/vitebsk/details - Погода в Витебске на 10 дней
-* https://www.gismeteo.ru/weather-vitebsk-4218/3-days/ - Погода в Витебске на 3 дня
+* https://www.gismeteo.by/weather-vitebsk-4218/3-days/ - Погода в Витебске на 3 дня
 
 ## Новости
 
 * https://belta.by - Новости Беларуси, БелТА
+* https://www.sb.by - Новости Беларуси
 
 ## Транспорт
 
