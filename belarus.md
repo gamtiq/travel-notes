@@ -104,6 +104,7 @@
 
 * https://www.belarus.by/ru/travel/belarus-life/sightseeing/tourist-attraction-vitebsk - Достопримечательности Витебской области
 * https://travel.by/2022/10/edem-v-vitebsk-chto-posmotret-za-1-2-dnya/ - Едем в Витебск: что посмотреть за 1-2 дня
+* https://tochka.by/articles/turizm/ot_muzeya_marka_shagala_do_pushkinskogo_mosta_top_10_znakovykh_mest_vitebska/ - От музея Марка Шагала до Пушкинского моста: топ-10 знаковых мест Витебска
 * https://dzen.ru/a/Yw3AVrjOdgufwRYI - Главные достопримечательности Витебска и окрестностей: что посмотреть за 1, 2 дня самостоятельно, куда сходить
 * https://my-travel-diary.by/chem-zanjatsja-v-vitebske.html - Чем заняться в Витебске? 12 идей от арт-кафе до подземных замков
 * https://my-travel-diary.by/dostoprimechatelnosti-vitebska-chto-posmotret-za-1-2-dnja.html - Достопримечательности Витебска: что посмотреть за 1-2 дня
@@ -132,6 +133,7 @@
   + https://vetliva.ru/tourism/health-tourism/ - Санатории Беларуси
 * https://belarustourism.by - Официальный сайт о туризме в Беларуси
 * https://www.holiday.by/by - Отдых в Беларуси
+* https://belkraj.by - Отдых в Беларуси: жильё, туры, экскурсии
 * https://itourist.by - Экологический туризм и активный отдых в заказниках Беларуси
 * https://my-travel-diary.by/puteshestvija-po-belarusi.html - 25 лайфхаков для путешествия по Беларуси
 * https://my-travel-diary.by/gde-pozavtrakat-v-mogileve.html - Где недорого поесть в Могилеве
@@ -184,10 +186,14 @@
   + https://grodnovisafree.by/glavnaya/ob-ekty-pitaniya.html - Объекты питания
 * https://my-travel-diary.by/luchshie-restorany-grodno-top.html - Лучшие рестораны Гродно: от дорогих до дешевых
 * https://my-travel-diary.by/gostinicy-grodno-gde-nedorogo-perenochevat.html - лучшие гостиницы Гродно, где недорого переночевать
+* https://tsum-grodno.by - ЦУМ Гродно
 
 ### Витебск
 
 * https://vitebsk-region.gov.by - Витебский областной исполнительный комитет
+* https://gorodvitebsk.by - Витебский городской портал
+  + https://gorodvitebsk.by/afisha - Афиша Витебска
+* https://myfin.by/article/zhizn/gajd-po-vitebsku-cto-smotret-gde-nocevat-kakie-ceny - Большие выходные в Витебске: как доехать, что посмотреть, сколько денег брать с собой
 
 ## Заведения питания
 
@@ -240,7 +246,12 @@
 * https://originaltour.by/type/tury-po-belarusi/ - Туры и экскурсии по Беларуси
 * https://andersen.by/ekskursii-po-belarusi - Экскурсии по Беларуси, туристическое агентство "Андерсен"
 * https://www.belindtravel.by - Экскурсии по Беларуси, БелИндТрэвел
+* https://belkraj.by/experiences - Экскурсии по Беларуси и другим странам
+  + https://belkraj.by/belarus/minsk/experiences - Экскурсии по Минску
+  + https://belkraj.by/belarus/grodno/experiences - Экскурсии в Гродно
+  + https://belkraj.by/belarus/vitebsk/experiences - Экскурсии в Витебске
 * https://citytourminsk.by - Minsk City Tour - Экскурсия по Минску на двухэтажном автобусе
+* https://gorodvitebsk.by/afisha/ekskursii - Экскурсии в Витебске
 * https://shop.belaz.by - экскурсии на Белаз
 * https://www.zefir.by/jekskursija - экскурсии по фабрике «Красный пищевик», Бобруйск
 * https://yelnyatrip.com - Путешествия по древнему болоту Ельня
@@ -289,6 +300,7 @@
 
 * https://belta.by - Новости Беларуси, БелТА
 * https://www.sb.by - Новости Беларуси
+* https://tochka.by - Новости Беларуси
 
 ## Транспорт
 
