@@ -40,7 +40,9 @@
   + https://vetliva.ru/belarus/map/ - Достопримечательности Беларуси на карте
 * https://planetabelarus.by/sights/ - Достопримечательности Беларуси
 * https://www.holiday.by/by/skarb - Достопримечательности Беларуси
+* https://belarustourist.by/turistam/sights/ - Достопримечательности Беларуси
 * https://ekskursii.by/?Dostoprimechatelnosti_Belarusi - Популярные достопримечательности Беларуси
+* https://turinbelarus.by/info/attractions/ - Главные достопримечательности Беларуси
 * https://travel.by - путешествия и отдых в Беларуси и во всем мире
 * https://museum.by - Музеи Беларуси, новости, афиша мероприятий, каталог музеев
 * https://niasvizh.by - Несвижский замок — Национальный историко-культурный музей-заповедник
@@ -156,6 +158,7 @@
 * https://planetabelarus.by - Вся Беларусь на одном ресурсе
 * https://vetliva.ru - VETLIVA, каталог туристических услуг по Беларуси, экскурсии, лечение, отдых, туры.
   + https://vetliva.ru/tourism/health-tourism/ - Санатории Беларуси
+* https://belarustourist.by - «Беларустурист» - официальный туроператор в Республике Беларуcь
 * https://belarustourism.by - Официальный сайт о туризме в Беларуси
 * https://www.holiday.by/by - Отдых в Беларуси
 * https://belkraj.by - Отдых в Беларуси: жильё, туры, экскурсии
@@ -188,6 +191,7 @@
 * https://tc-stolica.by - Торговый центр "Столица"
 * https://galleria-minsk.by - ТРЦ Galleria Minsk
   + https://galleria-minsk.by/news/events/ - Новости и акции, экскурсии по Минску
+* https://tc-pershy.by - Першы - Первый национальный торговый дом
 * https://komarovka.by - Комаровский рынок
 * https://kommunarka.by/shops/firmennye-magaziny/ - фирменные магазины "Коммунарка"
 * https://freewifiminsk.by - бесплатный Wi-Fi в Минске
@@ -275,7 +279,14 @@
   + https://belkraj.by/belarus/minsk/experiences - Экскурсии по Минску
   + https://belkraj.by/belarus/grodno/experiences - Экскурсии в Гродно
   + https://belkraj.by/belarus/vitebsk/experiences - Экскурсии в Витебске
+* https://travelagency.by - Экскурсии и отдых в Беларуси
+* https://viapol.by/belarus.htm - Виаполь, экскурсии по Беларуси, сборные экскурсии на 1—2 дня
+* https://turinbelarus.by/excursions/ - ТурИн - Однодневные Экскурсии по Беларуси
+* https://minskholidays.by - Экскурсии по Минску и Беларуси
+* https://travelbel.by/combined-tours/ - Драник-тур, сборные экскурсии по Беларуси на автобусе из Минска
 * https://citytourminsk.by - Minsk City Tour - Экскурсия по Минску на двухэтажном автобусе
+* https://retrobus.by - экскурсии по Минску на ретроавтобусе
+* https://www.rw.by/tourism_and_recreation/tours/ - Дортур, туры по Беларуси
 * https://gorodvitebsk.by/afisha/ekskursii - Экскурсии в Витебске
 * https://shop.belaz.by - экскурсии на Белаз
 * https://www.zefir.by/jekskursija - экскурсии по фабрике «Красный пищевик», Бобруйск
