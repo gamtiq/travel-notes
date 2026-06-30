@@ -105,6 +105,8 @@
 * https://www.rustheatre.by - Национальный академический драматический театр имени М.Горького
 * https://cbg.org.by - Центральный ботанический сад
 * https://minskmuseum.by - Музей истории города Минска
+* https://museum.luch.by - Музей часового дела Беларуси
+* https://waterpark.by - Аквапарк Лебяжий в Минске
 
 ### Гродно
 
@@ -191,6 +193,7 @@
 * https://tc-stolica.by - Торговый центр "Столица"
 * https://galleria-minsk.by - ТРЦ Galleria Minsk
   + https://galleria-minsk.by/news/events/ - Новости и акции, экскурсии по Минску
+* https://dana-mall.com - Dana Mall
 * https://tc-pershy.by - Першы - Первый национальный торговый дом
 * https://komarovka.by - Комаровский рынок
 * https://kommunarka.by/shops/firmennye-magaziny/ - фирменные магазины "Коммунарка"
@@ -289,6 +292,7 @@
 * https://www.rw.by/tourism_and_recreation/tours/ - Дортур, туры по Беларуси
 * https://gorodvitebsk.by/afisha/ekskursii - Экскурсии в Витебске
 * https://shop.belaz.by - экскурсии на Белаз
+* https://belarus-tractor.com/mtz/sotsialnaya-sfera/promyshlennyy-turizm/ - экскурсии на Минский тракторный завод
 * https://www.zefir.by/jekskursija - экскурсии по фабрике «Красный пищевик», Бобруйск
 * https://yelnyatrip.com - Путешествия по древнему болоту Ельня
 
@@ -393,6 +397,7 @@
   https://yandex.ru/maps/org/monastyrskiy/137106013554/reviews/ - отзывы
 * https://greencityhotel.by - гостиница «Green City Hotel»  
   https://yandex.ru/maps/org/green_city_hotel/1376882886/reviews/ - отзывы
+* https://hotel-victoria.by - Группа отелей "Виктория"
 
 ### Гродно
 
@@ -406,6 +411,7 @@
   https://yandex.ru/maps/org/slaviya/1008569745/reviews/ - отзывы
 * https://www.kulturahotel.by - гостиница "Культура"  
   https://yandex.ru/maps/org/kultura/153739797215/reviews/ - отзывы
+* https://jemgrodno.by - Санаторий «Жемчужина»
 
 ### Витебск
 
