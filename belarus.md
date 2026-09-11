@@ -283,6 +283,8 @@
   + https://belkraj.by/belarus/grodno/experiences - Экскурсии в Гродно
   + https://belkraj.by/belarus/vitebsk/experiences - Экскурсии в Витебске
 * https://travelagency.by - Экскурсии и отдых в Беларуси
+* https://smart-tour.by - Турагентство в Минске Смарт Тур, Групповые / Сборные Экскурсии по Беларуси
+* https://travel-minsk.by - Туры и экскурсии по Беларуси из Минска
 * https://viapol.by/belarus.htm - Виаполь, экскурсии по Беларуси, сборные экскурсии на 1—2 дня
 * https://turinbelarus.by/excursions/ - ТурИн - Однодневные Экскурсии по Беларуси
 * https://minskholidays.by - Экскурсии по Минску и Беларуси
@@ -398,6 +400,7 @@
 * https://greencityhotel.by - гостиница «Green City Hotel»  
   https://yandex.ru/maps/org/green_city_hotel/1376882886/reviews/ - отзывы
 * https://hotel-victoria.by - Группа отелей "Виктория"
+* https://willinghotel.by - Willing Hotel
 
 ### Гродно
 
