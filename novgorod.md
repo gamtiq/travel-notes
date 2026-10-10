@@ -5,17 +5,29 @@
 * https://novgorod.travel - Официальный туристический портал Новгородской области
   + https://novgorod.travel/guides - Что посмотреть в Новгородской области
   + https://novgorod.travel/cities - Города Новгородской области
-    - https://novgorod.travel/cities/velikiy-novgorod#objects - Великий Новгород
+    - https://novgorod.travel/cities/velikiy-novgorod - Великий Новгород
     - https://novgorod.travel/cities/staraya-russa - Старая Русса
+* https://teatrvn.ru - Новгородский академический театр драмы имени Ф.М. Достоевского
+* https://sofia-novgorod.cerkov.ru - Софийский собор, Великий Новгород
 * https://vn-george.ru - Свято-Юрьев мужской монастырь
 
 ### Музеи
 
+#### Великий Новгород
+
 * https://novgorodmuseum.ru - Новгородский государственный объединенный музей-заповедник
+  + https://novgorodmuseum.ru/muzei/novgorodskij-kreml - Новгородский кремль
+  + https://novgorodmuseum.ru/muzei/vladychnaya-granovitaya-palata - Владычная (Грановитая) палата
   + https://novgorodmuseum.ru/muzei/vitoslavlitsy - Витославлицы
-  + https://novgorodmuseum.ru/muzei/dom-muzej-f.m.-dostoevskogo - Дом-музей Ф.М. Достоевского, Старая Русса
-  + https://novgorodmuseum.ru/muzei/muzej-romana-bratya-karamazovy - Музей романа «Братья Карамазовы», Старая Русса
-  + https://novgorodmuseum.ru/muzei/muzej-severo-zapadnogo-fronta - Музей Северо-Западного фронта, Старая Русса
+* https://centrpovetkina.ru - Центр музыкальных древностей В.И. Поветкина
+
+#### Старая Русса
+
+* https://novgorodmuseum.ru/muzei/dom-muzej-f.m.-dostoevskogo - Дом-музей Ф.М. Достоевского
+* https://novgorodmuseum.ru/muzei/muzej-romana-bratya-karamazovy - Музей романа «Братья Карамазовы»
+* https://novgorodmuseum.ru/muzei/muzej-severo-zapadnogo-fronta - Музей Северо-Западного фронта
+* https://novgorodmuseum.ru/muzei/starorusskij-kraevedcheskij-muzej - Старорусский краеведческий музей
+* https://russasol.ru - Усадьба средневекового рушанина, Музей-реконструкция средневековой усадьбы
 
 ## Полезная информация
 
@@ -26,6 +38,11 @@
 ## Экскурсии
 
 * https://novgorod.travel/excursions - Экскурсии по Новгородской области
+
+## Аудиогид
+
+* https://novgorod.travel/audio-guides?city=velikiy-novgorod - Аудиогиды по Великому Новгороду
+* https://novgorod.travel/audio-guides/staraya-russa-gorod-dostoevskogo - Старая Русса - город Достоевского, аудиогид по Старой Руссе с GPS-навигацией
 
 ## Погода
 
