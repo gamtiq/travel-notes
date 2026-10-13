@@ -52,6 +52,8 @@
 * https://www.gismeteo.by/weather-staraya-russa-4117/3-days/ - Погода в Старой Руссе на 3 дня
 * http://www.nepogoda.ru/russia/novgorod_velikii/ - Погода в Новгороде
 * http://www.nepogoda.ru/russia/staraya_russa/ - Погода в Старой Руссе
+* http://www.pogodavn.ru/forecast-vn - прогноз погоды на завтра, Великий Новгород
+* http://www.pogodavn.ru/forecast-staraya-russa - прогноз погоды на завтра, Старая Русса
 
 ## Транспорт
 
