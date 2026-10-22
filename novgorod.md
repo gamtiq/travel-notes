@@ -7,6 +7,8 @@
   + https://novgorod.travel/cities - Города Новгородской области
     - https://novgorod.travel/cities/velikiy-novgorod - Великий Новгород
     - https://novgorod.travel/cities/staraya-russa - Старая Русса
+* https://russa.travel - Старая Русса - Городской центр туризма
+* https://городдостоевского.рф - Старая Русса - город Достоевского
 * https://teatrvn.ru - Новгородский академический театр драмы имени Ф.М. Достоевского
 * https://sofia-novgorod.cerkov.ru - Софийский собор, Великий Новгород
 * https://vn-george.ru - Свято-Юрьев мужской монастырь
@@ -34,6 +36,8 @@
 * https://novgorod.travel/restaurants - Где поесть в Новгородской области
 * https://novgorod.travel/events - Афиша Новгородской области
 * https://novgorod.travel/guest-card - Карта гостя Новгородской области
+* https://stolichniigorod.ru - Трактир «Столичный городъ» Старая Русса
+* https://lavkaplotnikovykh.ru - Лавка Плотниковыхъ, магазин-музей, Старая Русса
 
 ## Экскурсии
 
