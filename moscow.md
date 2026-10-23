@@ -282,6 +282,10 @@
 * [Багратион](https://bagrationhotel.ru), метро "Парк культуры" 7-10 минут пешком, [на карте](https://yandex.ru/maps/org/bagration/1070804628/)  
   https://ostrovok.ru/hotel/russia/moscow/mid7852775/bagration_hotel/  
   https://travel.yandex.ru/hotels/moscow/bagration/
+* [Космос](https://www.hotelcosmos.ru), метро "ВДНХ" 5 минут пешком, [на карте](https://yandex.ru/maps/org/cosmos_moskva_vdnkh_otel/1376154547/)  
+  https://ostrovok.ru/hotel/russia/moscow/mid7466678/cosmos_hotel/  
+  https://travel.yandex.ru/hotels/moscow/cosmos-moskva-vdnkh-otel/  
+  https://101hotels.com/main/cities/moskva/gostintsa_kosmos.html
 * [Авиалюкс](http://hotelavialux.com/), метро "Аэропорт" 7-10 минут пешком, [на карте](https://yandex.ru/maps/org/avialyuks/1243421564/)  
   https://ostrovok.ru/hotel/russia/moscow/mid7395306/otel_avialiuks/  
   https://travel.yandex.ru/hotels/moscow/avialiuks/
