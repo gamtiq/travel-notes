@@ -15,6 +15,8 @@
 * https://www.kaup39.ru - Поселение викингов «Кауп»
 * https://www.ambercombine.ru/tourism - туристические объекты АО "Калининградский янтарный комбинат"
 * https://liftsvetlogorsk.ru - Лифт с панорамой в Светлогорске
+* https://балтийская-крепость.рф - Балтийская крепость Пиллау
+* https://tapiau-castle.ru - Замок Тапиау
 
 ### Музеи
 
@@ -22,10 +24,18 @@
 * https://www.world-ocean.ru - Музей Мирового океана
 * https://kaliningrad.tretyakovgallery.ru - Третьяковская галерея Калининград
 * https://nccakaliningrad.ru - Балтийский филиал Государственного музея изобразительных искусств имени А.С. Пушкина
+* https://koihm.ru - Калининградский областной историко-художественный музей
+* https://kaliningradartmuseum.ru - Калининградский музей изобразительных искусств
+* https://alteshaus.ru - Альтес Хаус, музей-квартира, Калининград
+* https://domkitoboya.ru - Дом китобоя, музей Калининграда советского периода
 * https://museumcard39.ru - Музей Открыток в Домике Смотрителя Высокого моста, Калининград
 * https://murarium.ru - Музей «МУРАРИУМ». Арт-коллекция кошек. Зеленоградск
+* https://mumod.ru - Музей Курортной Моды, Зеленоградск
+* https://kenigmuseum.ru - Музей Кёнигсберг, музей с действующими миниатюрами и инсталляциями, Зеленоградск
+* https://tilsit-mir.ru - Музей Тильзитского мира, Советск
 * https://navalmuseum.ru/filials/baltic_fleet - Музей Балтийского флота, Балтийск
 * https://oldlunet.ru - Старый Люнет, инфо-музей о Балтийской косе
+* https://ushkui-park.ru - Средневековый парк-музей Ушкуй
 * https://visit-kaliningrad.ru/entertainment/culture/museums/ - Музеи Калининграда
 * https://gokaliningrad.com/museumgeo/list - Музеи Калининграда
 
@@ -58,6 +68,7 @@
   - https://gokaliningrad.com/cafe/list - Лучшие рестораны Калининграда
   - https://gokaliningrad.com/event/list - Мероприятия в Калининграде
 * https://www.svetlogorsk-tourism.ru - информационно-туристический центр Светлогорска
+* https://cher-info.ru - Информационно-туристический центр г. Черняховск
 * https://gov39.ru - Портал Правительства Калининградской области
 * https://www.klgd.ru - Администрация ГО "Город Калининград"
   - https://www.klgd.ru/city/tourism/brochures.php - Туристические брошюры с информацией о Калининграде
@@ -75,6 +86,7 @@
 
 * https://visit-kaliningrad.ru/info/chto-privezti-iz-kaliningrada/ - Что привезти из Калининграда
 * https://www.amberica.store - Амберика. Косметика Балтийского моря
+* https://jsdarvin.com - DARVIN Jewelry
 
 ### Янтарь
 
@@ -85,6 +97,7 @@
 ### Марципан
 
 * https://visit-kaliningrad.ru/info/poleznaya-informatsiya/magaziny-martsipana.php - Где купить марципан в Калининграде, Зеленоградске, Светлогорске?
+* https://pomatti.ru - Фабрика марципана и шоколада Pomatti
 
 ### Сыры
 
