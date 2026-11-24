@@ -10,7 +10,20 @@
 
 ## Театры
 
+* https://www.mariinsky.ru - Мариинский театр
+* https://mikhailovsky.ru - Михайловский театр
 * https://www.teatrvfk.ru - Театр им. В. Ф. Комиссаржевской
+* https://buffspb.ru - Музыкально-Драматический Театр «Буфф»
+* https://mtfontanka.ru - Молодёжный театр на Фонтанке
+* https://teatrlegenda.ru - театр "Легенда"
+
+## Концертные площадки
+
+* https://www.philharmonia.spb.ru - Санкт-Петербургская академическая филармония имени Д.Д. Шостаковича
+* https://capella-spb.ru - Государственная академическая капелла Санкт-Петербурга
+* https://beloselskiy-palace.ru - Дворец Белосельских-Белозерских
+* http://kolizey.spb.ru - Колизей Арена
+* https://bkz.ru - БКЗ «Октябрьский»
 
 ## Полезная информация
 
